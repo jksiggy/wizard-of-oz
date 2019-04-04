@@ -19,7 +19,7 @@ nav {
 
 nav a {
     margin: 2em 1em 0px 1em;
-    color:blue;
+    color: red;
 }
 nav a:hover {
     color:lightblue;
